@@ -2,7 +2,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; CMS by Edwin Diaz</p>
+                    <p style="color: white;">Copyright &copy; CMS by ECE4 Under guidance of <span><b>Dr. Neelam R. Prakash</b></span></p>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
